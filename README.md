@@ -239,5 +239,6 @@ Thanks and feel free to check the [Twittor](https://github.com/PaulSec/twittor) 
 
 Output
 ======
-[![cast](https://asciinema.org/a/4oo26ixuqfzyknztyamw8qgdw)](https://asciinema.org/a/4oo26ixuqfzyknztyamw8qgdw)
+[![cast](https://asciinema.org/a/4oo26ixuqfzyknztyamw8qgdw.png)](https://asciinema.org/a/4oo26ixuqfzyknztyamw8qgdw)
+
 
