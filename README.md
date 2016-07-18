@@ -237,11 +237,9 @@ Thanks
 Thanks and feel free to check the [Twittor](https://github.com/PaulSec/twittor) and [Gcat](https://github.com/byt3bl33d3r/gcat) projects from [PaulWebSec](https://twitter.com/PaulWebSec) and [byt3bl33d3r](https://twitter.com/byt3bl33d3r) from which I forked the project.
 
 
-Output
+Cast
 ======
 [![cast](https://asciinema.org/a/4oo26ixuqfzyknztyamw8qgdw.png)](https://asciinema.org/a/4oo26ixuqfzyknztyamw8qgdw?autoplay=1)
-
-![cast](https://asciinema.org/a/4oo26ixuqfzyknztyamw8qgdw?autoplay=1 "cast")
 
 
 
