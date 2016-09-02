@@ -546,8 +546,8 @@ class StdOutListener():
                                     ExecuteCommand(jobid, cmd)
                                     
 
-        except:
-            print((colored('[-] Error decoding' , 'yellow')))
+        except Exception as e:
+            print((colored('[-] Error decoding' + str(e) , 'yellow')))
 
         return None
 
